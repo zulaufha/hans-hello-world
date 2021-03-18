@@ -1,5 +1,4 @@
 # hans-hello-world
-Hans hat Hunger
 
 Hallo Chefe
 
